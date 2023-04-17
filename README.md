@@ -1,4 +1,4 @@
 # Spring-Boot-Rest-Crud_employee_directory
 Rest Crud project - employee_directory
 
-projects on Chad Darby Udemy courses
+Projects on Chad Darby's Udemy course
